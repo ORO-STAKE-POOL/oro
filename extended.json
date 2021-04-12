@@ -2,14 +2,14 @@
     "info": {
         "url_png_icon_64x64": "http://oro-ops.com.s3-website-us-east-1.amazonaws.com/images/logo_64.png",
         "url_png_logo": "http://oro-ops.com.s3-website-us-east-1.amazonaws.com/images/logo_64.png",
-        "location": "Virginia, USA",
+        "location": "South INDIA",
         "social": {
             "twitter_handle": "OroPool",
             "telegram_handle": "oro_pool"
          },
         "about": {
-            "me": "Independent Professional Operator graduated master degree from Pittsburg State University",
-            "server": "Running in Cloud, 1 BP & 1 backup node, 1 Relay and 1 backup node.",
+            "me": "Certified DevOps Engineer, expertise with building highly automated infrastructures in Cloud and On-premises.",
+            "server": "Multiple BP and relay nodes with standby backup nodes.",
             "company": ""
          }
     }
